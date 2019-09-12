@@ -1,0 +1,5 @@
+¿‡£∫
+	Integer:
+		Integer.toBinaryString(int);
+		Integer.toOctalString(int);
+		Integer.toHexString(int);
